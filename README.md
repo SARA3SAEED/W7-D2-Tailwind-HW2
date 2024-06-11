@@ -1,8 +1,8 @@
-# React + Vite
+# The most popular component library for Tailwind CSS by daisyUI [website](https://daisyui.com/).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Demo Live: [here](https://main--incandescent-maamoul-306883.netlify.app/)
 
-Currently, two official plugins are available:
+## Simulate This pic:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://drive.google.com/uc?export=view&id=1yTOblFNRyzp1YYleugsBO5rWonN34oUd" alt="JavaScript Exam 1" />
+<img src="https://drive.google.com/uc?export=view&id=1XjhJWGbkdm2l-5eeslCBfLvXLyumv6Nd" alt="JavaScript Exam 1" />
